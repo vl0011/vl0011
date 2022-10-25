@@ -2,6 +2,7 @@
 - email: vl0114@naver.com
 - github: github.com/vl0011
 - blog: www.vompressor.com
+- github.io: vl0011.github.io
 
 ## 학력
 - 한림대학교 재학
