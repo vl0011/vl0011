@@ -9,10 +9,10 @@
 
 ## 요즘 관심있는 분야입니다.
 - LoRa 광대역 통신 네트워크
-자세한 내용은 [INTEREST](INTEREST)페이지를 참고 해주세요.
+자세한 내용은 [INTEREST](INTEREST.md)페이지를 참고 해주세요.
 
 ## 주력 사용 기술입니다.
-[SKILLS](SKILLS)페이지를 참고 해주세요.
+[SKILLS](SKILLS.md)페이지를 참고 해주세요.
 
 ## 진행중인 프로젝트 입니다.
 ### LoRaWAN 기반 스마트팜 프로젝트 (Grepfa)
@@ -26,4 +26,4 @@ https://www.vopressor.com/tag/smartfarm/
 >리포지토리  
 https://github.com/vl0011/grepfa_lora_network_server
 
-자세한 내용은 [PROJECT](PROJECT)페이지를 참고 해주세요.
+자세한 내용은 [PROJECT](PROJECT.md)페이지를 참고 해주세요.
