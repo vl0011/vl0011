@@ -12,8 +12,20 @@ https://www.vopressor.com/tag/smartfarm/
 
 >https://github.com/vl0011/grepfa_lora_node
 
+
 센서값 전달, 엑츄에이터 신호수신/제어 역할을하는 `LoRa`단말 기기 입니다.  
-`Microchip`기반 MCU를 사용하며, `Arduino` 부트로더를 올려 사용이 가능합니다.
+`Microchip` MCU를 사용하며, `Arduino` 부트로더를 올려 사용이 가능합니다.
+
+## ~~RAK11300 (RP2040) 기반 스마트팜 단말기기 제작 프로젝트~~
+>**[RAK11300](https://store.rakwireless.com/products/wisduo-lpwan-module-rak11300) 모듈 KC인증 관련 문제로 잠시 보류한 프로젝트 입니다.**
+
+[RAK11300](https://store.rakwireless.com/products/wisduo-lpwan-module-rak11300) 을 사용한 컨트롤보드 제작 프로젝트 입니다.
+![RAK11300-breakout](PROJECT/node-pcb.png)
+![RAK11300-pcb](PROJECT/rak11300-breakout.jpg)
+
+## 스마트 개폐기 프로젝트
+농업용 개폐기 모터를 원격으로 제어하는 회로를 제작하는 프로젝트 입니다.
+![RAK11300-pcb](PROJECT/control-circuit.jpg)
 
 ## LoRaWAN Gateway
 ![Language](https://skillicons.dev/icons?i=c,cpp,raspberrypi,linux,bash)  
