@@ -30,7 +30,7 @@ DB가 필요한 대부분의 프로젝트에서 `PostgreSQL`을 사용 했습니
 ![IoT](https://skillicons.dev/icons?i=arduino,raspberrypi,linux)  
 <a href="https://www.microchip.com/"><img src="logo/MCHP.svg" height=50></a>  
 `Microchip MCU` + `Arduino Bootloader`를 사용한 `LoRa` 프로젝트를 진행중 입니다.  
-`RP2040 (RPI Pico)`, `ATmega328P` 기반의 
+`RP2040 (RPI Pico)`, `ATmega328P` 기반의 임베디드 보드를 제작한 경험이 있습니다.
 
 # Tool
 ![Tool](https://skillicons.dev/icons?i=linux,git,github,docker,cmake,idea,vscode,gradle,maven,bash)  

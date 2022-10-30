@@ -1,15 +1,12 @@
 # 소개
 - email: vl0114@naver.com
-- github: github.com/vl0011
-- blog: www.vompressor.com
-- github.io: [vl0011.github.io](https://vl0011.github.io)
+- github: [github.com/vl0011](https://github.com/vl0011)
+- blog: [www.vompressor.com](https://www.vompressor.com)
+- github.io: [vl0011.github.io](https://vl0011.github.io)  
+저에 대한 자세한 정보와 저의 작품을 봐주세요!
 
 ## 학력
 - 한림대학교 재학
-
-## 요즘 관심있는 분야입니다.
-- LoRa 광대역 통신 네트워크
-자세한 내용은 [INTEREST](INTEREST.md)페이지를 참고 해주세요.
 
 ## 주력 사용 기술입니다.
 프론트엔드, 백엔드, 임베디드 기술을 가지고 있습니다.  
@@ -24,7 +21,5 @@ https://www.vopressor.com/tag/smartfarm/
 #### LoRaWAN 기반 스마트팜 단말 기기 연구
 #### LoRaWAN Gateway
 #### LoRaWAN Netwrok Server Project
->리포지토리  
-https://github.com/vl0011/grepfa_lora_network_server
 
 자세한 내용은 [PROJECT](PROJECT.md)페이지를 참고 해주세요.
