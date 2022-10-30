@@ -1,9 +1,11 @@
-# 소개
 - email: vl0114@naver.com
 - github: [github.com/vl0011](https://github.com/vl0011)
 - blog: [www.vompressor.com](https://www.vompressor.com)
-- github.io: [vl0011.github.io](https://vl0011.github.io)  
-저에 대한 자세한 정보와 저의 작품을 봐주세요!
+- 포트폴리오, 이력서: [vl0011.github.io](https://vl0011.github.io)  
+
+
+## 소개
+
 
 ## 학력
 - 한림대학교 재학
